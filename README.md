@@ -25,10 +25,3 @@ We then compute the average of all such errors for each company as our combined 
 ![](Result/prediction%20vs%20real.jpg)
 
 For more detailed description, please check the reports in result folder.
-
-# Team members
-* Data Collector: 13050117
-* Coder: 1305063
-* Trainer:  1305010 (me)
-* Writer: 1305011
-* Leader: 1305061
